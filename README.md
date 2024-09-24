@@ -7,7 +7,7 @@ then npm install
 
 to use:
 
-node index.js "<first variable> "<second variable>"
+node index.js "[first variable]" "[second variable]"
 
 first variable is the name of the item you are searching for, second variable is price range. An example will be shown below
 
