@@ -5,7 +5,7 @@
 
 then npm install
 
-to use:
+2 use:
 
 node index.js "[first variable]" "[second variable]"
 
@@ -13,3 +13,5 @@ first variable is the name of the item you are searching for, second variable is
 
 Looking for a lamp under 30 bucks?
 node index.js "lamp" "30<"
+
+if your specifications were too broad, it will give the 5 highest rating items under your specifications.
